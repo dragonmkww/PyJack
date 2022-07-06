@@ -3,6 +3,6 @@ This is a working game of blackjack that runs on Python's "turtle" graphics engi
 
 I hope you enjoy playing with this, me and my friend Eric worked very hard to make this, and if you have any feature requests or optimization suggestions, please feel free to make an issue.
 
-You can edit the colors and designs of the cards and everything else, just DO NOT mess with the "blackjack.py" file. it runs the entire thing and changing it could break the entire program.
+You can edit the colors and designs of the cards and everything else, just DO NOT mess with the "blackjack.py" file. It's the main part of the program and changing it could break the entire process.
 
 To play with this, simply clone this repo and click on "blackjack.py". (A Python backend is required.)
